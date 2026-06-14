@@ -1119,7 +1119,7 @@ async def homepage(request: Request):
   <!-- Examples -->
   <div class="examples-section" id="examplesSection">
     <div class="examples-section-header">
-      <h3>Examples — click any card to load it</h3>
+      <h3>Examples</h3>
     </div>
     <div class="examples-grid" id="examplesGrid"></div>
   </div>
@@ -1289,8 +1289,7 @@ function buildFrameCards(frameResults) {{
     initCompare(stage);
   }});
 
-  // scroll into view after short delay
-  setTimeout(() => framesSection.scrollIntoView({{behavior:'smooth',block:'start'}}), 200);
+
 }}
 
 function dlFrame(filename) {{
@@ -1392,7 +1391,7 @@ examples.forEach(ex => {{
   img.src = ex.url;
 
   const badge = document.createElement('span');
-  badge.className = 'ex-use-badge'; badge.textContent = '▶ Use this';
+  badge.className = 'ex-use-badge'; badge.textContent = 'Use this';
 
   wrap.appendChild(img); wrap.appendChild(badge);
 

@@ -1,8 +1,10 @@
-# **wan2.2-i2v-fast**
+# **[wan2.2-i2v-fast](https://huggingface.co/spaces/prithivMLmods/wan2.2-i2v-fast)**
 
 wan2.2-i2v-fast is an experimental, highly optimized Image-to-Video generation suite powered by the massive 14B parameter `Wan-AI/Wan2.2-I2V-A14B-Diffusers` model. Designed for unprecedented inference speed and VRAM efficiency, this application implements cutting-edge acceleration techniques, including INT8/FP8 dynamic quantization via `torchao`, Ahead-Of-Time Induction (AOTI) compilation for transformer modules, and a specialized Lightning LoRA adapter to produce smooth cinematic animations in as few as 4 to 8 steps.
 
 Beyond core video generation, the pipeline incorporates an automated `Real-ESRGAN` post-processing pass to extract and $2\times$ upscale individual keyframes. The entire suite is wrapped in a bespoke, headless Gradio interface featuring a dark Ubuntu-inspired theme, interactive comparison sliders, and real-time execution logging.
+
+🤗 huggingface [demo] — [hf.co/spaces/prithivmlmods/wan2.2-i2v-fast](https://huggingface.co/spaces/prithivMLmods/wan2.2-i2v-fast)
 
 > [!NOTE]
 > This app is a preview version 1.0, and more updates are coming soon.

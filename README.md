@@ -11,9 +11,9 @@ Beyond core video generation, the pipeline incorporates an automated `Real-ESRGA
 
 ---
 
-<img width="1919" height="1342" alt="1a" src="https://github.com/user-attachments/assets/35eefb50-72f3-4fd3-a384-0319dd4aeb03" />
+<img width="1919" height="1342" alt="image" src="https://github.com/user-attachments/assets/66b23b4d-2a71-4e58-9b8e-dfa5d01626df" />
 
-<img width="1919" height="980" alt="1b" src="https://github.com/user-attachments/assets/7e8cd9fd-cca1-4501-b685-c1d4c2afd8ca" />
+<img width="1919" height="980" alt="image (1)" src="https://github.com/user-attachments/assets/e7475126-8cc9-42ec-bb06-b331b3c9c218" />
 
 ---
 

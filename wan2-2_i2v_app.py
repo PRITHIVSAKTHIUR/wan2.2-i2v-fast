@@ -1407,4 +1407,5 @@ examples.forEach(ex => {{
 </html>
 """
 
-app.launch()
+if __name__ == "__main__":
+    app.launch(show_error=True)

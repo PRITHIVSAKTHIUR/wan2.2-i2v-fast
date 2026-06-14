@@ -5,7 +5,7 @@ wan2.2-i2v-fast is an experimental, highly optimized Image-to-Video generation s
 Beyond core video generation, the pipeline incorporates an automated `Real-ESRGAN` post-processing pass to extract and $2\times$ upscale individual keyframes. The entire suite is wrapped in a bespoke, headless Gradio interface featuring a dark Ubuntu-inspired theme, interactive comparison sliders, and real-time execution logging.
 
 > [!NOTE]
-> Note: This app is a preview version 1.0, and more updates are coming soon.
+> This app is a preview version 1.0, and more updates are coming soon.
 
 ### **Key Features**
 

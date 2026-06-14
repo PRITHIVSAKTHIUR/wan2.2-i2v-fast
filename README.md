@@ -9,6 +9,14 @@ Beyond core video generation, the pipeline incorporates an automated `Real-ESRGA
 > [!NOTE]
 > This app is a preview version 1.0, and more updates are coming soon.
 
+---
+
+<img width="1919" height="1342" alt="1a" src="https://github.com/user-attachments/assets/35eefb50-72f3-4fd3-a384-0319dd4aeb03" />
+
+<img width="1919" height="980" alt="1b" src="https://github.com/user-attachments/assets/7e8cd9fd-cca1-4501-b685-c1d4c2afd8ca" />
+
+---
+
 ### **Key Features**
 
 * **Ultra-Fast 14B Inference:** Achieves massive speedups by stacking `torchao` weight-only/dynamic activation quantization, AOTI compiled transformer modules, and the `Kijai/WanVideo_comfy` Lightx2v LoRA.

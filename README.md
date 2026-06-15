@@ -8,6 +8,10 @@ Version 2.0 introduces a powerful new frame upscaling feature: the system automa
 |----------|----------|
 | <img src="https://github.com/user-attachments/assets/fd568fee-3790-427c-8930-80d266fddd1f" width="100%"> | <img src="https://github.com/user-attachments/assets/62626453-4f2a-45e0-81ce-bbf1d04f02ed" width="100%"> |
 
+| wan2_2 video | enhanced frames  |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/73765d1c-accb-4457-9564-8dc49d82492a" width="100%"> | <img src="https://github.com/user-attachments/assets/d8add101-62e2-4b86-a54a-10362d9f5669" width="100%"> |
+
 > [!NOTE]
 > This app is a preview version 2.0, and more updates are coming soon.
 

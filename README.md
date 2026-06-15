@@ -6,15 +6,12 @@ Version 2.0 introduces a powerful new frame upscaling feature: the system automa
 
 https://github.com/user-attachments/assets/bc18a0cd-0744-4ea7-be54-56ff8766bacd
 
-
----
-
-🤗 huggingface [demo] — [hf.co/spaces/prithivmlmods/wan2.2-i2v-fast](https://huggingface.co/spaces/prithivMLmods/wan2.2-i2v-fast)
+| wan2_2 video | enhanced frames  |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/0c77b43b-a779-415b-af9e-833b768bab29" width="100%"> | <img src="https://github.com/user-attachments/assets/62626453-4f2a-45e0-81ce-bbf1d04f02ed" width="100%"> |
 
 > [!NOTE]
 > This app is a preview version 2.0, and more updates are coming soon.
-
----
 
 ### **Key Features**
 

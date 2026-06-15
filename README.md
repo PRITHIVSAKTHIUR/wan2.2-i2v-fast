@@ -4,7 +4,7 @@ Wan2.2-I2V-Fast is a highly optimized, experimental Image-to-Video generation pi
 
 Version 2.0 introduces a powerful new frame upscaling feature: the system automatically extracts one frame per second from the generated video and upscales them using the `FLUX.2-klein-4B` model. The suite is wrapped in an interactive Gradio interface featuring dynamic comparison sliders to view the original versus upscaled keyframes.
 
-> hf/spaces — [wan2.2-i2v-fast](https://huggingface.co/spaces/prithivMLmods/wan2.2-i2v-fast)
+> hf.co/spaces — [wan2.2-i2v-fast](https://huggingface.co/spaces/prithivMLmods/wan2.2-i2v-fast)
 
 | wan2_2 video | enhanced frames  |
 |----------|----------|
